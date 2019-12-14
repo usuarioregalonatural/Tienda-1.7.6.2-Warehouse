@@ -6,6 +6,32 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>¿Cómo migrar tu tienda PrestaShop a un nuevo servidor?</title>
+    <link>https://www.prestashop.com/es/blog/como-migrar-prestashop-un-nuevo-servidor</link>
+    <description>¿Estás pensando en migrar tu PrestaShop a un nuevo servidor que intuyes que te dará mejores prestaciones?</description>
+     <pubDate>Fri, 13 Dec 2019 06:25:32 +0100</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-migrar-prestashop-un-nuevo-servidor</guid>
+  </item>
+  <item>
+    <title>La internacionalización de un eCommerce: ¿cómo empezar a vender en otros países? (Webinar)</title>
+    <link>https://www.prestashop.com/es/blog/webinar-internacionalizacion-ecommerce</link>
+    <description>La internacionalización de un eCommerce: ¿cómo empezar a vender en otros países?
+12 de diciembre a las 16 horas (de España)
+</description>
+     <pubDate>Thu, 12 Dec 2019 15:40:22 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/webinar-internacionalizacion-ecommerce</guid>
+  </item>
+  <item>
+    <title>El Checkout en el proceso de compra ¿qué es y cómo optimizarlo correctamente?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-el-checkout</link>
+    <description>¿Tienes problemas para materializar las ventas en tu tienda y sospechas que el problema se encuentra en el proceso de checkout de tu web?</description>
+     <pubDate>Wed, 04 Dec 2019 07:49:24 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-el-checkout</guid>
+  </item>
+  <item>
     <title>Puntos de dolor o Pain Points ¿por qué resolver problemas de tus clientes aumenta tus ventas?</title>
     <link>https://www.prestashop.com/es/blog/pain-points-puntos-de-dolor</link>
     <description>¿Sabes cuáles son los puntos de dolor de tu cliente potencial?</description>
@@ -38,16 +64,6 @@
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/opiniones-negativas</guid>
   </item>
   <item>
-    <title>La internacionalización de un eCommerce: ¿cómo empezar a vender en otros países? (Webinar)</title>
-    <link>https://www.prestashop.com/es/blog/webinar-internacionalizacion-ecommerce</link>
-    <description>La internacionalización de un eCommerce: ¿cómo empezar a vender en otros países?
-12 de diciembre a las 16 horas (de España)
-</description>
-     <pubDate>Wed, 27 Nov 2019 15:40:22 +0100</pubDate>
- <dc:creator>Jose Facchin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/webinar-internacionalizacion-ecommerce</guid>
-  </item>
-  <item>
     <title>¿Cómo gestionar el enlazado interno para mejorar el SEO de tu eCommerce?</title>
     <link>https://www.prestashop.com/es/blog/enlazado-interno-seo</link>
     <description>¿Cómo gestionas el enlazado interno de la web de tu tienda online?</description>
@@ -72,24 +88,6 @@
      <pubDate>Thu, 21 Nov 2019 13:10:16 +0100</pubDate>
  <dc:creator>Jose Facchin</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/webinar-del-ecommerce-a-mcommerce</guid>
-  </item>
-  <item>
-    <title>¿Cómo hacer una campaña de Facebook e Instagram Ads para vender más en tu tienda? (Webinar)</title>
-    <link>https://www.prestashop.com/es/blog/webinar-como-hacer-campanas-facebook-ads</link>
-    <description>¿Cómo hacer una campaña de Facebook Ads e Instagram Ads para vender más en tu tienda?
-28 de noviembre a las 16 horas (de España)
-</description>
-     <pubDate>Thu, 21 Nov 2019 11:46:58 +0100</pubDate>
- <dc:creator>Jose Facchin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/webinar-como-hacer-campanas-facebook-ads</guid>
-  </item>
-  <item>
-    <title>¿Qué es el “http error 500” y cómo solucionarlo en mi tienda PrestaShop?</title>
-    <link>https://www.prestashop.com/es/blog/error-500</link>
-    <description>¿Te han notificado alguna vez los usuarios que, navegando por tu web, la pantalla de pronto se les quedaba en blanco, apareciéndoles una anomalía llamada &quot;http error 500&quot;?</description>
-     <pubDate>Wed, 20 Nov 2019 07:43:19 +0100</pubDate>
- <dc:creator>Eva Lacalle</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/error-500</guid>
   </item>
   </channel>
 </rss>

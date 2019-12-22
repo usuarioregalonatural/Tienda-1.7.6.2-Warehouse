@@ -16,3 +16,8 @@
 [2019-12-15 19:45:01] security.DEBUG: User was reloaded from a user provider. {"provider":"PrestaShopBundle\\Security\\Admin\\EmployeeProvider","username":"vicsoft01@gmail.com"} []
 [2019-12-15 19:45:01] app.ERROR: Excepción emitida por el módulo iqitmegamenu en upgrade. Error sent by Addons. You may need to be logged. [] []
 [2019-12-15 19:45:01] security.DEBUG: Stored the security token in the session. {"key":"_security_main"} []
+[2019-12-22 10:21:58] request.INFO: Matched route "admin_module_manage_action". {"route":"admin_module_manage_action","route_parameters":{"_controller":"PrestaShopBundle\\Controller\\Admin\\Improve\\ModuleController::moduleAction","action":"upgrade","module_name":"iqitmegamenu","_route":"admin_module_manage_action"},"request_uri":"http://www.regalando1sonrisa.org/admin786icvj8i/index.php/improve/modules/manage/action/upgrade/iqitmegamenu?_token=OdpIwrEJdgwjlf-7niwZr6XKPOmrRd7K4RvAT2QMUVw","method":"POST"} []
+[2019-12-22 10:21:58] security.DEBUG: Read existing security token from the session. {"key":"_security_main","token_class":"Symfony\\Component\\Security\\Core\\Authentication\\Token\\UsernamePasswordToken"} []
+[2019-12-22 10:21:58] security.DEBUG: User was reloaded from a user provider. {"provider":"PrestaShopBundle\\Security\\Admin\\EmployeeProvider","username":"vicsoft01@gmail.com"} []
+[2019-12-22 10:21:58] app.ERROR: Excepción emitida por el módulo iqitmegamenu en upgrade. Error sent by Addons. You may need to be logged. [] []
+[2019-12-22 10:21:58] security.DEBUG: Stored the security token in the session. {"key":"_security_main"} []

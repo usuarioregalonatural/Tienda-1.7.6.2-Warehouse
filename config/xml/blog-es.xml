@@ -6,6 +6,25 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>SEO Local para eCommerce ¡Deja que encuentren tu negocio! (Webinar)</title>
+    <link>https://www.prestashop.com/es/blog/seo-local-webinar</link>
+    <description>SEO Local para eCommerce ¡Deja que encuentren tu negocio!
+27 de diciembre a las 16 horas (de España)
+
+</description>
+     <pubDate>Fri, 27 Dec 2019 07:24:45 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/seo-local-webinar</guid>
+  </item>
+  <item>
+    <title>¿Cómo aprovechar las opiniones positivas de tus clientes para vender más?</title>
+    <link>https://www.prestashop.com/es/blog/5-consejos-para-maximizar-el-numero-de-opiniones-positivas-de-los-clientes-en-tu-web-de-e-commerce</link>
+    <description>Por defecto, toda tienda online es un tipo de negocio online muy competitivo, ya que rompe los límites de las fronteras territoriales clásicas, al poderse vender productos en el mercado internacion</description>
+     <pubDate>Thu, 26 Dec 2019 06:00:55 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/5-consejos-para-maximizar-el-numero-de-opiniones-positivas-de-los-clientes-en-tu-web-de-e-commerce</guid>
+  </item>
+  <item>
     <title>¿Qué es un plan de inversión y cómo puede beneficiar a tu proyecto?</title>
     <link>https://www.prestashop.com/es/blog/plan-de-inversion</link>
     <description>¿Tienes un plan de inversión bien planificado para hacer que tu eCommerce sea sostenible a medio/largo plazo?</description>
@@ -72,22 +91,6 @@
      <pubDate>Mon, 02 Dec 2019 07:58:43 +0100</pubDate>
  <dc:creator>Jose Facchin</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/pain-points-puntos-de-dolor</guid>
-  </item>
-  <item>
-    <title>¿Cómo evitar que los usuarios abandonen el carrito de la compra?</title>
-    <link>https://www.prestashop.com/es/blog/evitar-abandonos-carrito</link>
-    <description>Si tienes una tienda online habrás visto en más de una ocasión cómo algunos de tus clientes se interesan por uno de tus productos, pero durante el proceso de compra se arrepienten de continuar con </description>
-     <pubDate>Sun, 01 Dec 2019 19:55:56 +0100</pubDate>
- <dc:creator>Daniel Urda</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/evitar-abandonos-carrito</guid>
-  </item>
-  <item>
-    <title>¿Qué es el Product Bundling en eCommerce y qué ventajas tiene?</title>
-    <link>https://www.prestashop.com/es/blog/product-bundling</link>
-    <description>¿Has comprado alguna vez en una tienda física u online y te has encontrado ofertas paquetizadas a un precio bastante competitivo?</description>
-     <pubDate>Fri, 29 Nov 2019 19:23:28 +0100</pubDate>
- <dc:creator>Ismael Ruiz</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/product-bundling</guid>
   </item>
   </channel>
 </rss>

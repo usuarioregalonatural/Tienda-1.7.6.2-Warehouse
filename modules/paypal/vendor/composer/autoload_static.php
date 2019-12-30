@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908
+class ComposerStaticInit911eb25a7795a393bec5e4f30aa0f570
 {
     public static $prefixLengthsPsr4 = array (
         'P' => 
@@ -12,7 +12,6 @@ class ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908
             'Psr\\Log\\' => 8,
             'PaypalPPBTlib\\' => 14,
             'PaypalAddons\\' => 13,
-            'PayPalTest\\' => 11,
         ),
     );
 
@@ -28,10 +27,6 @@ class ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908
         'PaypalAddons\\' => 
         array (
             0 => __DIR__ . '/../..' . '/',
-        ),
-        'PayPalTest\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/202/tests',
         ),
     );
 
@@ -72,14 +67,6 @@ class ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908
     );
 
     public static $classMap = array (
-        'PayPalTest\\EcInitTest' => __DIR__ . '/../..' . '/202/tests/EcInitTest.php',
-        'PayPalTest\\MethodECTest' => __DIR__ . '/../..' . '/202/tests/MethodECTest.php',
-        'PayPalTest\\MethodPPPTest' => __DIR__ . '/../..' . '/202/tests/MethodPPPTest.php',
-        'PayPalTest\\PaypalCaptureTest' => __DIR__ . '/../..' . '/202/tests/PaypalCaptureTest.php',
-        'PayPalTest\\PaypalLogTest' => __DIR__ . '/../..' . '/202/tests/PaypalLogTest.php',
-        'PayPalTest\\PaypalOrderTest' => __DIR__ . '/../..' . '/202/tests/PaypalOrderTest.php',
-        'PayPalTest\\PaypalTest' => __DIR__ . '/../..' . '/202/tests/PaypalTest.php',
-        'PayPalTest\\ScInitTest' => __DIR__ . '/../..' . '/202/tests/ScInitTest.php',
         'PayPal\\Api\\Address' => __DIR__ . '/..' . '/paypal/rest-api-sdk-php/lib/PayPal/Api/Address.php',
         'PayPal\\Api\\Agreement' => __DIR__ . '/..' . '/paypal/rest-api-sdk-php/lib/PayPal/Api/Agreement.php',
         'PayPal\\Api\\AgreementDetails' => __DIR__ . '/..' . '/paypal/rest-api-sdk-php/lib/PayPal/Api/AgreementDetails.php',
@@ -666,7 +653,10 @@ class ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908
         'PayPal\\Validation\\UrlValidator' => __DIR__ . '/..' . '/paypal/rest-api-sdk-php/lib/PayPal/Validation/UrlValidator.php',
         'PaypalAddons\\classes\\AdminPayPalController' => __DIR__ . '/../..' . '/classes/AdminPayPalController.php',
         'PaypalAddons\\classes\\PaypalException' => __DIR__ . '/../..' . '/classes/PaypalException.php',
+        'PaypalAddons\\services\\ServicePaypalIpn' => __DIR__ . '/../..' . '/services/ServicePaypalIpn.php',
         'PaypalAddons\\services\\ServicePaypalLog' => __DIR__ . '/../..' . '/services/ServicePaypalLog.php',
+        'PaypalAddons\\services\\ServicePaypalOrder' => __DIR__ . '/../..' . '/services/ServicePaypalOrder.php',
+        'PaypalAddons\\services\\ServicePaypalVaulting' => __DIR__ . '/../..' . '/services/ServicePaypalVaulting.php',
         'PaypalPPBTlib\\AbstractMethod' => __DIR__ . '/..' . '/ppbtlib/src/AbstractMethod.php',
         'PaypalPPBTlib\\CommonAbstarctModuleFrontController' => __DIR__ . '/..' . '/ppbtlib/src/CommonAbstarctModuleFrontController.php',
         'PaypalPPBTlib\\Db\\DbSchema' => __DIR__ . '/..' . '/ppbtlib/src/Db/DbSchema.php',
@@ -699,10 +689,10 @@ class ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInitfcc68fddd2646b35d1f2f1246d56f908::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit911eb25a7795a393bec5e4f30aa0f570::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit911eb25a7795a393bec5e4f30aa0f570::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit911eb25a7795a393bec5e4f30aa0f570::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit911eb25a7795a393bec5e4f30aa0f570::$classMap;
 
         }, null, ClassLoader::class);
     }
